@@ -17,6 +17,6 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Inherited
 @Documented
-@interface ClassAnnotation {
+public @interface ClassAnnotation {
 
 }
